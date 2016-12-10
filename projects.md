@@ -3,7 +3,7 @@
 #Projects list
 
 |S.No.| Project (Repo) name  | Selected  Language    | Brief Description  |
-|:-----:|:-----------------:|:-------------------------:|:--------------:|
+|:-----:|:-----------------:|:-------------------------:|:--------------|
 |1| Team-exe-website-NEW | Node.js | - This repo will hold the new `team.EXE 2017` website <br>- will be realeased 3 weeks prior to nimbus <br>- will be displayed in exhibition|
 |2|TeamEXE-App | Android | -This repo will hold the new `team.EXE 2017` android app <br>- will be realeased 3 weeks prior to nimbus<br>- will be displayed in exhibition |
 |3| online-exeplorer | Node.js | -This repo will hold the `exeplorer 2017` website <br>- will be realeased 3 weeks prior to nimbus <br>- will be displayed in exhibition |
