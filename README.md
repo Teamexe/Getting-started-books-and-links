@@ -11,3 +11,6 @@ This repo holds necessary information for starting with node.js , html ,css, jav
 [Codecademy.com](https://www.codecademy.com/)
 
 This repo holds the books of `node.js` , `ruby on rails`, `javascript`,`HTML & CSS`,`Android`
+
+#for details regarding projects
+[click here](https://github.com/Teamexe/Getting-started-books-and-links/blob/master/projects.md)
