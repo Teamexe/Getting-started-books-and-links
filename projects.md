@@ -11,4 +11,5 @@
 |5| photo-liker | Node.js | - This repo will hold the `photoliker 2017` website <br>- will be realeased 1 weeks prior to nimbus <br>- will be live for few days <br>- live contests <br>- will be displayed in exhibition|
 |6| nith-hacks | Node.js | - will be realeased 2 weeks prior to nimbus|
 |7|  Hostle-allotment-system | Ruby on rails | - will be displayed in exhibition |
-|8| Any other idea | - | mail the details at -  rishabh0402@gmail.com |
+|8|  openelective-management-system | Node.js | - will be displayed in exhibition |
+|9| Any other idea | - | mail the details at -  rishabh0402@gmail.com |
