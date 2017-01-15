@@ -15,4 +15,5 @@
 |9| nith-hacks | Node.js | - will be realeased 2 weeks prior to nimbus|
 |10|  Hostle-allotment-system | Ruby on rails | - will be displayed in exhibition |
 |11|  openelective-management-system | Node.js | - will be displayed in exhibition |
-|12| Any other idea | - | mail the details at -  rishabh0402@gmail.com |
+|12|  Whatsapp-bot | Python | - This repo will hold the `Whatsapp-bot` website <br>- will be realeased 3 weeks prior to nimbus <br>- will be live for time,depending upon popularity <br>- Chat bot <br>- will be displayed in exhibition|
+|13| Any other idea | - | mail the details at -  rishabh0402@gmail.com |
